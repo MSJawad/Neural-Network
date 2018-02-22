@@ -17,3 +17,12 @@ give accurate results
 ## Dependancies
 
 Numpy module
+
+## Author
+Mohammad Solaiman Jawad
+
+## Language(s)
+Python
+
+## License
+This project is protected by the MIT License
