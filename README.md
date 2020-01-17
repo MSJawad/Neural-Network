@@ -1,4 +1,4 @@
-# Neural-Network
+#   Perceptron
 Just a simple neural network I built. Working to expand my knowledge on the subject and progress to multi layer perceptrons
 
 
